@@ -1,4 +1,4 @@
-# photomosaic: A Python implementation of the Saliency Filters method
+# photomosaic
 
 It is a simple tool that turns your image collection into a mosaic image.
 
