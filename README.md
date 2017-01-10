@@ -2,8 +2,8 @@
 
 It is a simple tool that turns your image collection into a mosaic image.
 
-<div class="text-align:center">
-<img src="https://dl.dropboxusercontent.com/u/16018128/vangogh.jpg"
+<div>
+<img src="https://dl.dropboxusercontent.com/u/16018128/input.jpg"
 alt="input image" width=400px></img>
 <img src="https://dl.dropboxusercontent.com/u/16018128/output.jpg"
 alt="output image" width=400px></img>
